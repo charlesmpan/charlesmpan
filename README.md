@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlesmpan, a data science student from Flatiron
+- 👋 Hi, I’m @charlesmpan, a data science student
 - 👀 I’m interested in data science and anything that's interesting/fun to learn
 - 💞️ Feel free to look through my repository regarding any projects or things I git cloned out.
 - 📫 You can reach me by email (charlesmpan@gmail.com) or my linkedin (https://www.linkedin.com/in/charles-pan-/)
